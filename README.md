@@ -75,7 +75,7 @@ https://neort.io/art/cfkh4jkn70rvflp1l9t0?index=0&origin=my_profile
 ![alt](/images/Butterfly.png)
 https://neort.io/art/cf7c0n4n70rvflp1jdog?index=2&origin=my_profile
 
-ARFoundationAnimalScan
+ARFoundationAnimalScan  
 ![alt](/images/ARFoundation.png)
 https://github.com/yukitakaGrid/Unity_ARFoundationAnimalScan
 
@@ -83,7 +83,7 @@ PortableGPSTracker
 https://github.com/yukitakaGrid/PortableGPSTracker  
 感想記事→https://note.com/yukitakagrid/n/nafbfeb154c7c  
 
-レイトレーシングによるメタボール
+レイトレーシングによるメタボール  
 ![alt](/images/metaball.png)
 https://www.shadertoy.com/view/mddGWS
 
