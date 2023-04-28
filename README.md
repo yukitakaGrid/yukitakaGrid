@@ -79,9 +79,9 @@ ARFoundationAnimalScan
 ![alt](/images/ARFoundation.png)
 https://github.com/yukitakaGrid/Unity_ARFoundationAnimalScan
 
-PortableGPSTracker　　
-https://github.com/yukitakaGrid/PortableGPSTracker
-感想記事→https://note.com/yukitakagrid/n/nafbfeb154c7c
+PortableGPSTracker  
+https://github.com/yukitakaGrid/PortableGPSTracker  
+感想記事→https://note.com/yukitakagrid/n/nafbfeb154c7c  
 
 レイトレーシングによるメタボール
 ![alt](/images/metaball.png)
