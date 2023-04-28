@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ↓  
 2022.4 Unityに興味を持つ  
 ↓  
-2022.6 Unityを使用し、初めてハッカソンに出場し、線形補間AssetsのiTweenでインタラクションアートを制作(技育CAMPハッカソン : テーマ無駄開発)  
+2022.6 Unityを使用し、初めてハッカソンに出場する。線形補間AssetsのiTweenでインタラクションアートを制作(技育CAMPハッカソン : テーマ無駄開発)  
 ↓  
 2022.7-2022.9 CGによる生態表現に興味を持ち、Processingで蝶の羽ばたきのシミュレーションを模索する  
 ↓  
