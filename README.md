@@ -51,7 +51,7 @@
 ↓  
 2022.11 学祭にてサークル活動でファッションショーの映像演出部分を担当する。使用ツールはAfterEfectとプロジェクター  
 ↓  
-2022.10-2022.12 株式会社TREE Digital StudioのREALIZE事業部で動物や植物が床面から出現するARアプリを開発する。使用ツールはUnityとAR Foundationプラグイン。  
+2022.10-2022.12 株式会社TREE Digital StudioのREALIZE事業部で動物や植物が床面から出現するARスマホアプリを開発する。使用ツールはUnityとAR Foundationプラグイン。  
 ↓  
 2023.1 shaderとレイトレーシングによる表現に興味を持つ  
 ↓  
