@@ -58,7 +58,7 @@
 現在  
 
 ## currrent works
-- 学祭に向けたLED-CUBEのソフトウェア部分の開発(プロシージャルアニメーション)
+- 学祭に向けたLED-CUBEのソフトウェア部分の開発(プロシージャルアニメーションとインタラクション)
 - computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionとtrailのshader)
 - フロントエンドの学習と実装
 - ChatGPTのAPIを利用したアプリケーション開発
