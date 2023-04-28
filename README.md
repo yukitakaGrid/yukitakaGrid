@@ -1,16 +1,66 @@
 ### Hi there 👋
 
-<!--
-**yukitakaGrid/yukitakaGrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 芝浦工業大学システム理工学部電子情報システム学科入学(2020.4~現在)
+- 学祭実行委員会企画局スマブラ大会/カラオケ大会担当&協賛担当(2020.4~2021.11)
+- メディアアート制作サークル(ShibaLab)入部(2022.4~現在)
+- シンクトワイス株式会社 TECH-BASE IoTエンジニアコースインターン(2022.10~2022.11)
+- 株式会社TREE Digital Studio REALIZE事業部 Unityエンジニアインターン(2022.10~2022.12)
+
+## Skills
+- Unity(1年)
+- Processing(1年半)
+- Arduino(1年)
+- Java(1年)
+- C言語(1年)
+- アセンブリ言語(1年)
+- AfterEffect(半年)
+- Shader(半年)
+  
+## Interested in
+- コンピューターグラフィックス
+- GPGPU
+- 物理シミュレーション
+- 物理センサー
+- 画像処理
+- 自律制御ロボット
+- ジェネラティブアート
+- 仮想空間音楽ライブ
+
+## History
+2020.9 はじめてプログラミング言語に触れる(C言語)  
+↓  
+2021.6 Arduinoで赤外線センサーを使ったUターン走行式モーターカーを開発  
+↓  
+2021.6 授業の演習でJavaでフレームワークSwingを使用した簡易的なスレッドチャットシステムのプロトタイプを制作  
+↓  
+2021.8 メディアアートに興味を持ち、プログラミングに本格的に興味持つ  
+↓  
+2021.9-2022.3 Processingで2次元のジェネラクティブアートをたくさん作る  
+↓  
+2022.4 Unityに興味を持つ  
+↓  
+2022.6 Unityを使用し、初めてハッカソンに出場し、線形補間AssetsのiTweenでインタラクションアートを制作(技育CAMPハッカソン : テーマ無駄開発)  
+↓  
+2022.7-2022.9 CGによる生態表現に興味を持ち、Processingで蝶の羽ばたきのシミュレーションを模索する  
+↓  
+2022.10 授業の演習でMPUのZ80でアセンブリ言語を使い、2進数ベースの加算減算乗算除算の機能を搭載したプログラムを制作する  
+↓  
+2022.10-2022.11 TECH-BASEインターンでArduinoとESP32モジュール、ブザー、GPSを使い、無線通信によって位置情報をトラッキングするシステムのプロトタイプ開発をする。MVP認定。  
+↓  
+2022.11 学祭にてサークル活動でファッションショーの映像演出部分を担当する。使用ツールはAfterEfectとプロジェクター  
+↓  
+2022.10-2022.12 株式会社TREE Digital StudioのREALIZE事業部で動物や植物が床面から出現するARアプリを開発する。使用ツールはUnityとAR Foundationプラグイン。  
+↓  
+2023.1 shaderとレイトレーシングによる表現に興味を持つ  
+↓  
+現在  
+
+## currrent works
+- 学祭に向けたLED-CUBEのソフトウェア部分の開発(プロシージャルアニメーション)
+- computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionとtrailのshader)
+- フロントエンドの学習と実装
+
+## Products(一部)
+- 
