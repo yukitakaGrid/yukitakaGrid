@@ -10,8 +10,7 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 ### アニメーション制御ソフト
 
 
-Uploading 無題の動画 ‐ Clipchampで作成 (1).mp4…
-
+https://github.com/yukitakaGrid/yukitakaGrid/assets/105165980/177f64ce-755d-4bec-925d-85b4184a7f56
 
 
 ## Who is
