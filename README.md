@@ -1,7 +1,7 @@
 ### 最近の制作物
 
 LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
-![alt](/images/LEDCUBEAnimeGenerator.png)
+![alt](/images/LEDCUBEAnimeGeneretor.png)
 
 ## Who is
 - 志摩幸隆 神奈川県出身
