@@ -49,13 +49,13 @@
 ↓  
 2022.10-2022.11 TECH-BASEインターンでArduinoとESP32モジュール、ブザー、GPSを使い、無線通信によって位置情報をトラッキングするシステムのプロトタイプ開発をする。MVP認定。  
 ↓  
-2022.11 学祭にてサークル活動でファッションショーの映像演出部分を担当する。使用ツールはAfterEfectとプロジェクター  
+2022.11 学祭にてサークル活動でファッションショーの映像演出部分を担当する。使用ツールはAfterEffectsとプロジェクター  
 ↓  
 2022.10-2022.12 株式会社TREE Digital StudioのREALIZE事業部で動物や植物が床面から出現するARスマホアプリを開発する。使用ツールはUnityとAR Foundationプラグイン。  
 ↓  
 2023.1 shaderとレイトレーシングによる表現に興味を持つ  
 ↓  
-現在  
+2023.4~2023.5 学祭の展示物としてLEDCUBEを展示し、その作品のソフトウェア開発部分を担当
 
 ## currrent works
 - 学祭に向けたLED-CUBEのソフトウェア部分の開発(プロシージャルアニメーションとインタラクション)
@@ -90,3 +90,6 @@ https://www.shadertoy.com/view/mddGWS
 
 computeShaderによるBoids(制作中)
 https://twitter.com/yukitakaGrid/status/1649285830241062913
+
+LEDCUBEのアニメーション制作自作ツール
+
