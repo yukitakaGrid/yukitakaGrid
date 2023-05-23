@@ -1,4 +1,7 @@
-### Hi there 👋
+### 最近の制作物
+
+LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
+![alt](/images/metaball.png)
 
 ## Who is
 - 志摩幸隆 神奈川県出身
@@ -90,6 +93,4 @@ https://www.shadertoy.com/view/mddGWS
 
 computeShaderによるBoids(制作中)
 https://twitter.com/yukitakaGrid/status/1649285830241062913
-
-LEDCUBEのアニメーション制作自作ツール
 
