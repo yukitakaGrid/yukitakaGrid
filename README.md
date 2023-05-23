@@ -2,7 +2,7 @@
 
 ## LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
 
-### アニメーション制作自作ソフト
+### アニメーション制作自作ツール
 ![alt](/images/LEDCUBEAnimeGeneretor.png)
 
 BOOTH : https://ariake12.booth.pm/items/4796978
