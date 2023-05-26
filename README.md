@@ -30,7 +30,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 - Java(1年)
 - C言語(1年)
 - アセンブリ言語(1年)
-- AfterEffect(半年)
+- AfterEffects(半年)
 - Shader(半年)
   
 ## Interested in
