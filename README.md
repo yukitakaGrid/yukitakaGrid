@@ -36,11 +36,13 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 ## Interested in
 - コンピューターグラフィックス
 - GPGPU
-- 物理シミュレーション
-- 物理センサー
+- 物理ベースレンダリング
+- 人工生命
+- ユビキタスコンピューティング
 - 画像処理
 - 自律制御ロボット
 - ジェネラティブアート
+- Webシステム
 - 仮想空間音楽ライブ
 
 ## History
