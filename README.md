@@ -37,13 +37,12 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
   
 ## Interested in
 - コンピューターグラフィックス
+- コンピュータービジョン
 - GPGPU
 - 物理ベースレンダリング
 - 人工生命
-- ユビキタスコンピューティング
-- 画像処理
 - 自律制御ロボット
-- ジェネラティブアート
+- インタラクティブアート
 - Webシステム
 - 仮想空間音楽ライブ
 
@@ -77,6 +76,8 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 2023.4~2023.5 学祭の展示物としてLEDCUBEを展示し、その作品のソフトウェア開発部分を担当
 ↓
 2023.5 授業の実験でサーバーサイドSpring BootとJava、クライアントサイドがHTML/CSSとJavaScriptでwebチャットアプリケーションのプロトタイプを制作
+↓
+2023.6 PCDへジェネラティブアート作品を制作し、展示
 
 ## currrent works
 - computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionとtrailのshader)
