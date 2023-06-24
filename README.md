@@ -73,7 +73,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 ↓  
 2023.1 shaderとレイトレーシングによる表現に興味を持つ  
 ↓  
-2023.4~2023.5 学祭の展示物としてLEDCUBEを展示し、その作品のソフトウェア開発部分を担当
+2023.4~2023.5 学祭の展示物としてLEDCUBEを展示し、その作品のソフトウェア開発部分を担当  
 ↓  
 2023.5 授業の実験でサーバーサイドSpring BootとJava、クライアントサイドがHTML/CSSとJavaScriptでwebチャットアプリケーションのプロトタイプを制作  
 ↓  
