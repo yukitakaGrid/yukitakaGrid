@@ -9,8 +9,10 @@
 <a id="anchor1"></a>
 # 直近の制作物
 
-### アニメーション制作自作ツール
-![alt](/images/LEDCUBEAnimeGeneretor.png)
+### LightEffects by Unity
+<img src="./images/LEDCUBEAnimeGeneretor.png" width="400" height="200">
+
+サークルで制作。作品「**LEDCUBE**」のアニメーションを楽に多く、みんなで作るために開発されたデスクトップアプリケーション。
 
 BOOTH : https://ariake12.booth.pm/items/4796978
 
@@ -19,38 +21,36 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 https://github.com/yukitakaGrid/yukitakaGrid/assets/105165980/177f64ce-755d-4bec-925d-85b4184a7f56
 
-GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
+GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 
 ---
 # Profile
 
 ### Who is
-- 志摩幸隆 神奈川県出身
-- 芝浦工業大学システム理工学部電子情報システム学科入学(2020.4~現在)
-- 学祭実行委員会企画局スマブラ大会/カラオケ大会担当&協賛担当(2020.4~2021.11)
-- メディアアート制作サークル(ShibaLab)入部(2022.4~現在)
-- *シンクトワイス株式会社 TECH-BASE* IoTエンジニアコースインターン(2022.10~2022.11)
-- *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
+#### 志摩 幸隆
+*芝浦工業大学システム理工学部電子情報システム学科* 入学(2020.4~現在)
 
-### Skills
+学祭実行委員会企画局スマブラ大会/カラオケ大会 企画協賛(2020.4~2021.11)
+
+デジタルアート制作サークル *ShibaLab* 入部(2022.4~現在)
+
+*シンクトワイス株式会社 TECH-BASE* IoTエンジニアコースインターン(2022.10~2022.11)
+
+*株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
+
+### MainSkillSet
 <img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
 <img src="./images/newimg2023731586809.png" width="80" height="80">
 <img src="./images/java.png" width="80" height="80">
 <img src="./images/newimg2023732724384.png" width="80" height="80">
 
 
-### SubSkills
+### SubSkillSet
 <img src="./images/C++.png" width="80" height="80"><img src="./images/ae.png" width="120" height="80">
 <img src="./images/WebGL.png" width="80" height="80">
 <img src="./images/newimg20237315822855.png" width="100" height="80">
 <img src="./images/ts.png" width="80" height="80">
-<img src="./images/istockphoto-1042528428-170667a.jpg" width="80" height="80">
-- **C++**
-- **AfterEffects**(半年)
-- **WebGL**(半年)
-- **React**
-- TypeScript
-- JavaScript
+<img src="./images/OhO3FtHRfvKkBRr1688318468_1688318525.png" width="80" height="80">
   
 ### Interested in
 - **コンピューターグラフィックス**
