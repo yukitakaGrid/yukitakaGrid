@@ -4,10 +4,10 @@
 3. [軌跡](#anchor3)
 4. [Contact](#anchor4)
 
+---
+
 <a id="anchor1"></a>
 # 直近の制作物
-
-### LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
 
 ### アニメーション制作自作ツール
 ![alt](/images/LEDCUBEAnimeGeneretor.png)
@@ -22,6 +22,7 @@ https://github.com/yukitakaGrid/yukitakaGrid/assets/105165980/177f64ce-755d-4bec
 GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
 ---
+
 
 ## Who is
 - 志摩幸隆 神奈川県出身
