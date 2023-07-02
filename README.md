@@ -1,7 +1,7 @@
 # 目次
 1. [直近の制作物の紹介](#anchor1)
-2. [自己紹介](#anchor2)
-3. [軌跡](#anchor3)
+2. [Profile](#anchor2)
+3. [Hisotory](#anchor3)
 4. [Contact](#anchor4)
 
 ---
@@ -22,9 +22,9 @@ https://github.com/yukitakaGrid/yukitakaGrid/assets/105165980/177f64ce-755d-4bec
 GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
 ---
+# Profile
 
-
-## Who is
+### Who is
 - 志摩幸隆 神奈川県出身
 - 芝浦工業大学システム理工学部電子情報システム学科入学(2020.4~現在)
 - 学祭実行委員会企画局スマブラ大会/カラオケ大会担当&協賛担当(2020.4~2021.11)
@@ -32,7 +32,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 - *シンクトワイス株式会社 TECH-BASE* IoTエンジニアコースインターン(2022.10~2022.11)
 - *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
 
-## Skills
+### Skills
 - **Unity**(1年)
 - **Processing**(1年半)
 - **Arduino**(1年)
@@ -42,7 +42,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 - **AfterEffects**(半年)
 - **Shader**(半年)
   
-## Interested in
+### Interested in
 - **コンピューターグラフィックス**
 - **コンピュータービジョン**
 - **GPGPU**
@@ -51,6 +51,9 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 - **深層学習**
 - **演出**
 
+---
+
+//TODO: HISTORYを逆順にする
 ## History
 2020.9 はじめてプログラミング言語に触れる(C言語)  
 ↓  
@@ -83,6 +86,11 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 2023.5 授業の実験でサーバーサイドSpring BootとJava、クライアントサイドがHTML/CSSとJavaScriptでwebチャットアプリケーションのプロトタイプを制作  
 ↓  
 2023.6 PCDへジェネラティブアート作品を制作し、展示
+
+---
+# Contact
+
+<img src=""
 
 ---
 
