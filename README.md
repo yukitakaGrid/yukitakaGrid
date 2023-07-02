@@ -35,10 +35,8 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 ### Skills
 - **Unity**(1年)
 - **Processing**(1年半)
-- **Arduino**(1年)
 - **Java**(1年)
 - **C言語**(1年)
-- **アセンブリ言語**(1年)
 - **AfterEffects**(半年)
 - **Shader**(半年)
   
