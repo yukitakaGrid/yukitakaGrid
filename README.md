@@ -34,18 +34,17 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
 ### Skills
 <img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
-<img src="./images/newimg2023731586809.png" width="50" height="50">
-<img src="./images/java.png" width="50" height="50">
-<img src="./images/newimg2023732724384.png" width="50" height="50">
+<img src="./images/newimg2023731586809.png" width="80" height="80">
+<img src="./images/java.png" width="80" height="80">
+<img src="./images/newimg2023732724384.png" width="80" height="80">
 
 
 ### SubSkills
-<img src="./images/C++.png" width="50" height="50">
-<img src="./images/ae.png" width="50" height="50">
-<img src="./images/WebGL.png" width="50" height="50">
-<img src="./images/newimg20237315822855.png" width="50" height="50">
-<img src="./images/ts.png" width="50" height="50">
-<img src="./images/istockphoto-1042528428-170667a.png" width="50" height="50">
+<img src="./images/C++.png" width="80" height="80"><img src="./images/ae.png" width="80" height="80">
+<img src="./images/WebGL.png" width="80" height="80">
+<img src="./images/newimg20237315822855.png" width="80" height="80">
+<img src="./images/ts.png" width="80" height="80">
+<img src="./images/istockphoto-1042528428-170667a.png" width="80" height="80">
 - **C++**
 - **AfterEffects**(半年)
 - **WebGL**(半年)
