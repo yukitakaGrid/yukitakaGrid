@@ -24,7 +24,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 - 学祭実行委員会企画局スマブラ大会/カラオケ大会担当&協賛担当(2020.4~2021.11)
 - メディアアート制作サークル(ShibaLab)入部(2022.4~現在)
 - シンクトワイス株式会社 TECH-BASE IoTエンジニアコースインターン(2022.10~2022.11)
-- 株式会社TREE Digital Studio REALIZE事業部 Unityエンジニアインターン(2022.10~2022.12)
+- *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
 
 ## Skills
 - Unity(1年)
@@ -80,9 +80,13 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 ↓  
 2023.6 PCDへジェネラティブアート作品を制作し、展示
 
+---
+
 ## currrent works
 - computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionとtrailのshader)
 - webチャットアプリケーションのデータベースとサーバの構築
+
+---
 
 ## Products(一部)
 cellGridによるBoids
