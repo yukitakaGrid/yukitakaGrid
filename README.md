@@ -1,4 +1,4 @@
-### 最近の制作物
+# 直近の制作物
 
 
 
@@ -16,6 +16,7 @@ https://github.com/yukitakaGrid/yukitakaGrid/assets/105165980/177f64ce-755d-4bec
 
 GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
+---
 
 ## Who is
 - 志摩幸隆 神奈川県出身
