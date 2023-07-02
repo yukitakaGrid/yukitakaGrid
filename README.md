@@ -89,6 +89,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 # Contact
 
 <a href="https://twitter.com/ariake12_shader"><img src="./images/Twitter.png" width="50" height="50"></a>
+<a href="https://qiita.com/yukitakaGrid"><img src="./images/Qiita.png" width="50" height="50"></a>
 
 - Gmail : yukithm12@gmail.com
 
