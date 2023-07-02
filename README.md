@@ -1,12 +1,10 @@
-1. [概要](#anchor1)
-1. [順序](#anchor2)
-1. [詳細](#anchor3)
+# 目次
+1. [直近の制作物の紹介](#anchor1)
+2. [自己紹介](#anchor2)
+3. [軌跡](#anchor3)
+4. [Contact](#anchor4)
 
-<a id="anchor1">a</a>
-
-# 直近の制作物
-
-
+<a id="anchor1"># 直近の制作物</a>
 
 ## LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
 
@@ -83,12 +81,6 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 2023.5 授業の実験でサーバーサイドSpring BootとJava、クライアントサイドがHTML/CSSとJavaScriptでwebチャットアプリケーションのプロトタイプを制作  
 ↓  
 2023.6 PCDへジェネラティブアート作品を制作し、展示
-
----
-
-## currrent works
-- [ ] computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionと- trailのshader)
-- [ ] webチャットアプリケーションのデータベースとサーバの構築
 
 ---
 
