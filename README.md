@@ -7,7 +7,7 @@
 <a id="anchor1"></a>
 # 直近の制作物
 
-## LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
+### LEDCUBEのアニメーション制作自作ソフトとアニメーション制御ソフト
 
 ### アニメーション制作自作ツール
 ![alt](/images/LEDCUBEAnimeGeneretor.png)
