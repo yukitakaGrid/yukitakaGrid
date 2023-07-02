@@ -1,3 +1,9 @@
+1. [概要](#anchor1)
+1. [順序](#anchor2)
+1. [詳細](#anchor3)
+
+<a id="anchor1">a</a>
+
 # 直近の制作物
 
 
@@ -81,8 +87,8 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 ---
 
 ## currrent works
-- [ ] computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionと- - [ ] trailのshader)
-- webチャットアプリケーションのデータベースとサーバの構築
+- [ ] computeShaderによるBoidsの最適化と演出(bitonicsortによる近傍探索、emissionと- trailのshader)
+- [ ] webチャットアプリケーションのデータベースとサーバの構築
 
 ---
 
