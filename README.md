@@ -34,7 +34,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
 ### Skills
 <img src="./images/C#.png" width="50" height="50">
-<img src="./images/Official_unity_logo.png" width="50" height="50">
+<img src="./images/Official_unity_logo.png" width="100" height="50">
 <img src="./images/newimg2023731586809.png" width="50" height="50">
 <img src="./images/java.png" width="50" height="50">
 <img src="./images/The_C_Programming_Language_logo.svg.png" width="50" height="50">
