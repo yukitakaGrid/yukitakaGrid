@@ -40,11 +40,11 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_vol2
 
 
 ### SubSkills
-<img src="./images/C++.png" width="80" height="80"><img src="./images/ae.png" width="80" height="80">
+<img src="./images/C++.png" width="80" height="80"><img src="./images/ae.png" width="120" height="80">
 <img src="./images/WebGL.png" width="80" height="80">
-<img src="./images/newimg20237315822855.png" width="80" height="80">
+<img src="./images/newimg20237315822855.png" width="100" height="80">
 <img src="./images/ts.png" width="80" height="80">
-<img src="./images/istockphoto-1042528428-170667a.png" width="80" height="80">
+<img src="./images/istockphoto-1042528428-170667a.jpg" width="80" height="80">
 - **C++**
 - **AfterEffects**(半年)
 - **WebGL**(半年)
