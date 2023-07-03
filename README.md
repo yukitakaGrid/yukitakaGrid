@@ -67,6 +67,10 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 <a id="anchor3"></a>
 ## History
 
+2023.7 ハッカソンでwebアプリ作品「わりかんじ」をチームで開発、フロントエンドの履歴ページ部分を担当 [*技育CAMP vol6*ハッカソン : テーマはじめてのハッカソン] by React.js,Next.js,TypeScript
+
+↑
+
 2023.6 ジェネラティブアート作品「**魂のなる樹**」を制作 [PCD2023] by p5.js,WebGL
 
 ↑
