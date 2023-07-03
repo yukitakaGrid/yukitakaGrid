@@ -28,7 +28,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 
 ### Who is
 #### 志摩 幸隆
-グラフィックスエンジニア & 画像処理エンジニア志望
+グラフィックスエンジニア
 
 *芝浦工業大学システム理工学部電子情報システム学科* 入学(2020.4~現在)
 
