@@ -9,7 +9,7 @@
 # 直近の制作物
 
 ### LightEffects by Unity
-<img src="./images/LEDCUBEAnimeGeneretor.png" width="400" height="200">
+<img src="./images/LEDCUBEAnimeGeneretor.png" width="600" height="300">
 
 サークルで制作。作品「**LEDCUBE**」のアニメーションを楽に多く、みんなで作るために開発されたデスクトップアプリケーション。
 
