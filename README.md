@@ -62,40 +62,51 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 - **演出**
 
 ---
-
-//TODO: HISTORYを逆順にする
 ## History
-2020.9 はじめてプログラミング言語に触れる(C言語)  
-↓  
-2021.6 Arduinoで赤外線センサーを使った**Uターン走行式モーターカー**を開発  
-↓  
-2021.6 授業の演習でJavaでフレームワークSwingを使用した**簡易的なスレッドチャットシステムのプロトタイプ**を制作  
-↓  
-2021.8 メディアアートに興味を持ち、プログラミングに本格的に興味持つ  
-↓  
-2021.9-2022.3 Processingで2次元のジェネラクティブアートをたくさん作る  
-↓  
-2022.4 Unityに興味を持つ  
-↓  
-2022.6 Unityを使用し、初めてハッカソンに出場する。線形補間AssetsのiTweenでインタラクションアートを制作(技育CAMPハッカソン : テーマ無駄開発)  
-↓  
-2022.7-2022.9 CGによる生態表現に興味を持ち、Processingで**蝶の羽ばたきのシミュレーション**の表現方法を模索する  
-↓  
-2022.10 授業の演習でMPUのZ80でアセンブリ言語を使い、2進数ベースの**加算減算乗算除算付き電卓**のプログラムを制作する  
-↓  
-2022.10-2022.11 TECH-BASEインターンでArduinoとESP32モジュール、ブザー、GPSを使い、無線通信によって位置情報を**トラッキングするシステムのプロトタイプ開発**をする。MVP認定。  
-↓  
-2022.11 学祭にてサークル活動でファッションショーの映像演出部分を担当する。使用ツールはAfterEffectsとプロジェクター  
-↓  
-2022.10-2022.12 *株式会社TREE Digital Studio*の*REALIZE事業部*で動物や植物が床面から出現するARスマホアプリのプロトタイプを開発する。使用ツールはUnityとAR Foundationプラグイン。  
-↓  
-2023.1 shaderとレイトレーシングによる表現に興味を持つ  
-↓  
-2023.4~2023.5 学祭の展示物として**LEDCUBE**を展示し、その作品のソフトウェア開発部分を担当  
-↓  
-2023.5 授業の実験でサーバーサイドSpring BootとJava、クライアントサイドがHTML/CSSとJavaScriptでwebチャットアプリケーションのプロトタイプを制作  
-↓  
-2023.6 PCDへジェネラティブアート作品を制作し、展示
+
+2023.6 ジェネラティブアート作品「**魂のなる樹**」を制作 [PCD2023] by p5.js,WebGL
+
+↑
+
+2023.5 大学の講義でWebチャットアプリ制作 by SpringBoot,Java,JavaScript
+
+↑
+
+2023.5 作品「LEDCUBE」のためのオーサリングツール、「**LightEffects**」を開発 by Unity,C#
+
+↑
+
+2022.5~2023.5 チームで作品「**LEDCUBE**」を制作し、その作品のアニメーション制御部分のソフトウェアを開発  
+
+↑
+
+2022.10-2022.12 教育向けARスマホアプリのプロトタイプを開発 [*株式会社TREE Digital Studio* *REALIZE事業部* インターン] by Unity,C#,ARFoundation   
+
+↑
+
+2022.11 学祭にてチームでプロジェクターを用いたファッションショーの映像演出部分を受託 by AfterEffects  
+
+↑
+
+2022.10-2022.11 位置情報追跡防犯システムのプロトタイプを開発 [*TECH-BASE*インターン] by Arduino,ESP32,GPS / チームでMVPの認定
+
+↑
+
+2022.10 大学の講義でアセンブリレベルの電卓を制作
+
+↑
+
+2022.7-2022.9 個人で作品名「**ButterflySimulation**」の制作 by Processing
+
+↑
+
+2022.6 ハッカソンでインタラクティブアート、作品名「**落ち着かないモニター**」を制作 [*技育CAMP vol5*ハッカソン : テーマ無駄開発] by Unity,C#,iTween
+
+↑
+
+2021.6 サークルのチームで**Uターン走行式モーターカー**を開発、組み込みプログラマーを担当 by Arduino,赤外線センサー
+
+
 
 ---
 # Contact
@@ -106,32 +117,4 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 yukithm12@gmail.com
 
 ---
-
-## Products(一部)
-**cellGridによるBoids**
-![alt](/images/Boids.png)
-https://neort.io/art/cepvmvcn70rvflp1gum0?index=3&origin=my_profile
-
-**perlinNoise関数によるflow**
-![alt](/images/flow.png)
-https://neort.io/art/cfkh4jkn70rvflp1l9t0?index=0&origin=my_profile
-
-**蝶の羽ばたきシミュレーション**
-![alt](/images/Butterfly.png)
-https://neort.io/art/cf7c0n4n70rvflp1jdog?index=2&origin=my_profile
-
-**ARFoundationAnimalScan**
-![alt](/images/ARFoundation.png)
-https://github.com/yukitakaGrid/Unity_ARFoundationAnimalScan
-
-**PortableGPSTracker**  
-https://github.com/yukitakaGrid/PortableGPSTracker  
-感想記事→https://note.com/yukitakagrid/n/nafbfeb154c7c  
-
-**レイトレーシングによるメタボール**  
-![alt](/images/metaball.png)
-https://www.shadertoy.com/view/mddGWS
-
-**computeShaderによるBoids(制作中)**
-https://twitter.com/yukitakaGrid/status/1649285830241062913
 
