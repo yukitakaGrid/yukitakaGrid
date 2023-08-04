@@ -2,7 +2,7 @@
 1. [直近の制作物の紹介](#anchor1)
 2. [Profile](#anchor2)
 3. [Hisotory](#anchor3)
-4. [Status](#anchor4)
+4. [GitHub Status](#anchor4)
 
 ---
 <a id="anchor1"></a>
