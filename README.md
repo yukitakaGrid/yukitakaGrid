@@ -125,7 +125,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 # Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukitakaGrid)](https://github.com/yukitakaGrid/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=github-readme-stats)](https://github.com/yukitakaGrid/github-readme-stats)
 
 ---
 
