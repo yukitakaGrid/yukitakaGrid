@@ -2,7 +2,7 @@
 1. [直近の制作物の紹介](#anchor1)
 2. [Profile](#anchor2)
 3. [Hisotory](#anchor3)
-4. [Contact](#anchor4)
+4. [Status](#anchor4)
 
 ---
 <a id="anchor1"></a>
@@ -122,12 +122,10 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 
 ---
 <a id="anchor4"></a>
-# Contact
+# Status
 
-<a href="https://twitter.com/ariake12_shader"><img src="./images/Twitter.png" width="50" height="50"></a>
-<a href="https://qiita.com/yukitakaGrid"><img src="./images/Qiita.png" width="50" height="50"></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukitakaGrid)](https://github.com/yukitakaGrid/github-readme-stats)
 
-yukithm12@gmail.com
 
 ---
 
