@@ -40,6 +40,8 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 
 *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
 
+**チームラボ Interactive Team* サマーインターン(2023.9)
+
 ### MainSkillSet
 <img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
 <img src="./images/newimg2023731586809.png" width="80" height="80">
@@ -71,6 +73,19 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 ---
 <a id="anchor3"></a>
 # History
+
+2023.9 ハッカソンでVRゲーム「鳥プランク」をチームで制作。プランクの姿勢推定をmocopiで受け取り、良い姿勢の間空を飛び続けるゲーム。主に地形生成のshader、フロントエンド部分を担当 [*ファンクリエイト : テーマAI×VR×時間] by Unity/C#、Shaderlab(HLSL)
+
+↑
+
+2023.9 チームラボのInteractive Teamでサマーインターン
+
+↑
+
+2023.8 ハッカソンでDiscord bot「KitAI」を個人で制作。ChatGPT APIに欲しいコマンドの要望を送ったらリアルタイムでコマンドを実装してくれる機能を主に実装
+[*技育CAMP vol8*ハッカソン : テーマはじめてのハッカソン] by Python,GPT3.5 API
+
+↑
 
 2023.7 ハッカソンでwebアプリ作品「わりかんじ」をチームで開発、フロントエンドの履歴ページ部分を担当 [*技育CAMP vol6*ハッカソン : テーマはじめてのハッカソン] by React.js,Next.js,TypeScript
 
