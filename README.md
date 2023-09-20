@@ -40,7 +40,7 @@ GitHub : https://github.com/yukitakaGrid/LEDCUBESimulator_Ver2.0
 
 *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
 
-**チームラボ Interactive Team* サマーインターン(2023.9)
+*チームラボ Interactive Team* サマーインターン(2023.9)
 
 ### MainSkillSet
 <img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
