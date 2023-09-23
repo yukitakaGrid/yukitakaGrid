@@ -45,18 +45,10 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 
 ### MainSkillSet
-<img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
-<img src="./images/newimg2023731586809.png" width="80" height="80">
-<img src="./images/java.png" width="80" height="80">
-<img src="./images/newimg2023732724384.png" width="80" height="80">
-
+Unity / C# / Python / Processing / Java / C / Shaderlab(HLSL)
 
 ### SubSkillSet
-<img src="./images/C++.png" width="80" height="80"><img src="./images/ae.png" width="120" height="80">
-<img src="./images/WebGL.png" width="80" height="80">
-<img src="./images/newimg20237315822855.png" width="100" height="80">
-<img src="./images/ts.png" width="80" height="80">
-<img src="./images/OhO3FtHRfvKkBRr1688318468_1688318525.png" width="80" height="80">
+C++ / WebGL / AfterEffects / React.js / Next.js / TypeScript / JavaScript
   
 ### Interested in
 - **コンピューターグラフィックス**
