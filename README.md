@@ -19,6 +19,8 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 <img src="./images/bird_human.png" width="600" height="300">
 
+ハッカソンで制作。mocopiとHMDを利用した筋トレしながら空を飛ぶゲーム。
+
 ---
 <a id="anchor2"></a>
 # Profile
