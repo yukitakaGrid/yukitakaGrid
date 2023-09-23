@@ -44,10 +44,10 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 
 
-### MainSkillSet
+### MainSkillSet (開発経験有・経験年数1年~)
 Unity / C# / Python / Processing / Java / C / Shaderlab(HLSL)
 
-### SubSkillSet
+### SubSkillSet (調べながらできる)
 C++ / WebGL / AfterEffects / React.js / Next.js / TypeScript / JavaScript
   
 ### Interested in
