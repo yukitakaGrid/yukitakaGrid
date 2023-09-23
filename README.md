@@ -31,15 +31,19 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 *芝浦工業大学システム理工学部電子情報システム学科* 入学(2020.4~現在)
 
-学祭実行委員会企画局スマブラ大会/カラオケ大会 企画協賛(2020.4~2021.11)
-
-デジタルアート制作サークル *ShibaLab* 入部(2022.4~現在)
-
-*シンクトワイス株式会社 TECH-BASE* IoTエンジニアコースインターン(2022.10~2022.11)
+*チームラボ Interactive Team* サマーインターン(2023.9)
 
 *株式会社TREE Digital Studio REALIZE事業部* Unityエンジニアインターン(2022.10~2022.12)
 
-*チームラボ Interactive Team* サマーインターン(2023.9)
+デジタルアート制作サークル *ShibaLab* 入部(2022.4~現在)
+
+学祭実行委員会企画局スマブラ大会/カラオケ大会 企画協賛(2020.4~2021.11)
+
+*シンクトワイス株式会社 TECH-BASE* IoTエンジニアコースインターン(2022.10~2022.11)
+
+
+
+
 
 ### MainSkillSet
 <img src="./images/CSharp.png" width="80" height="80"><img src="./images/Official_unity_logo.png" width="180" height="80">
