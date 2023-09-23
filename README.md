@@ -26,7 +26,7 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 # Profile
 
 ### Who is
-#### 志摩 幸隆
+#### 志摩 幸隆 (Yukitaka Shima)
 グラフィックスエンジニア
 
 *芝浦工業大学システム理工学部電子情報システム学科* 入学(2020.4~現在)
