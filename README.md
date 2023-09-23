@@ -68,7 +68,7 @@ C++ / WebGL / AfterEffects / React.js / Next.js / TypeScript / JavaScript
 <a id="anchor3"></a>
 # History
 
-2023.9 ハッカソンでVRゲーム「鳥プランク」をチームで制作。プランクの姿勢推定をmocopiで受け取り、良い姿勢の間空を飛び続けるゲーム。主に地形生成のshader、フロントエンド部分を担当 [*ファンクリエイト : テーマAI×VR×時間] by Unity/C#、Shaderlab(HLSL)
+2023.9 ハッカソンでVRゲーム「鳥プランク」をチームで制作。プランクの姿勢推定をmocopiで受け取り、良い姿勢の間空を飛び続けるゲーム。主に地形生成のshader、フロントエンド部分を担当 [*ファンクリエイト* : テーマAI×VR×時間] by Unity/C#、Shaderlab(HLSL)
 
 ↑
 
