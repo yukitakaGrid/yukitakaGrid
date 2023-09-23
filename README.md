@@ -17,7 +17,7 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 ### 鳥人間 by Unity
 
-<img src="./images/bird human.png" width="600" height="300">
+<img src="./images/bird_human.png" width="600" height="300">
 
 ---
 <a id="anchor2"></a>
