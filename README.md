@@ -72,7 +72,7 @@ C++ / WebGL / AfterEffects / React.js / Next.js / TypeScript / JavaScript
 
 ↑
 
-2023.9 チームラボのInteractive Teamでサマーインターン
+2023.9 チームラボのInteractive Teamでサマーインターン。蝶のシミュレーション(GPGPU)と残像のインタラクティブアートを制作 by Unity/C#、ShaderLab(HLSL)
 
 ↑
 
