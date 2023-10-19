@@ -16,7 +16,7 @@
 
 
 
-# 目次
+# Index
 1. [Works](#anchor1)
 2. [Profile](#anchor2)
 3. [Hisotory](#anchor3)
