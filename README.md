@@ -1,5 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukitakaGrid&theme=2077)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukitakaGrid&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
 # 目次
 1. [直近の制作物の紹介](#anchor1)
 2. [Profile](#anchor2)
