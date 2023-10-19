@@ -23,7 +23,7 @@
                     padding-top: 4px;
                     white-space: nowrap;
                     overflow: hidden;
-                    -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
+                    -webkit-animation: typing 5s steps(30, end), blink-caret .1s step-end infinite alternate;
                     color: #26e10b;
                     text-shadow: #26e10b 0px 0 5px;
                 }
