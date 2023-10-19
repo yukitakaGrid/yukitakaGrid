@@ -27,16 +27,13 @@
 
 ### Who is
 #### 志摩 幸隆 / Yukitaka Shima
-*芝浦工業大学システム理工学部電子情報システム学科* (2020.4~現在)
-デジタルアート制作サークル *ShibaLab* (2022.4~2023.5)
-*チームラボ Interactive Team* サマーインターン (2023.9)
+- *芝浦工業大学システム理工学部電子情報システム学科* (2020.4~現在)
+- デジタルアート制作サークル *ShibaLab* (2022.4~2023.5)
+- *チームラボ Interactive Team* サマーインターン (2023.9)
 
 
-### MainSkillSet (開発経験有・経験年数1年~)
-Unity / C# / Python / Processing / Shaderlab(HLSL)
-
-### SubSkillSet (調べながらできる)
-C++ / WebGL / AfterEffects / React.js / Next.js / TypeScript / JavaScript
+### SkillSet
+Unity/C#、Shader/GPU、C++、Python、Processing、TypeScript、AfterEffects
   
 ### Interested in
 - **コンピューターグラフィックス/GPU**
