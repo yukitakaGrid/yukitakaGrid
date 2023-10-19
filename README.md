@@ -89,12 +89,12 @@ PCD2023展示へ向けた制作物。Processingを使い、魂の軌跡と木の
 <a id="anchor3"></a>
 # History
 
-2022.6 技育CAMP マンスリーハッカソン vol.5
-2022.10~11 シンクトワイス株式会社 TECH-BASE IoTエンジニアコースインターン
-2022.10~12 株式会社TREE Digital Studio REALIZE事業部 Unityエンジニアインターン 
-2023.6 PCD2023展示
-2023.7 技育CAMP マンスリーハッカソン vol.6
-2023.8 技育CAMP マンスリーハッカソン vol.8
-2023.8~9 ファンクリエイト第一期
-2023.10 TDF 16ms#0 GLSL Graphics Compo
+2022.6 技育CAMP マンスリーハッカソン vol.5  
+2022.10-11 シンクトワイス株式会社 TECH-BASE IoTエンジニアコースインターン  
+2022.10-12 株式会社TREE Digital Studio REALIZE事業部 Unityエンジニアインターン   
+2023.6 PCD2023展示  
+2023.7 技育CAMP マンスリーハッカソン vol.6  
+2023.8 技育CAMP マンスリーハッカソン vol.8  
+2023.8-9 ファンクリエイト第一期  
+2023.10 TDF 16ms#0 GLSL Graphics Compo  
 
