@@ -55,6 +55,8 @@ Unity/C#、Shader/GPU、C++、Python、Processing、TypeScript、AfterEffects
 
 サークルで制作。作品「**LEDCUBE**」のアニメーションを楽に多く、みんなで作るために開発されたデスクトップアプリケーション。
 
+BOOTH : https://ariake12.booth.pm/items/4796978
+
 ### Tree of the life
 
 PCD2023展示へ向けた制作物。Processingを使い、魂の軌跡と木の成長をプロシージャルに生成。
@@ -66,8 +68,6 @@ PCD2023展示へ向けた制作物。Processingを使い、魂の軌跡と木の
 ### KitAI
 
 ハッカソンで開発したGPTによりリアルタイムにコマンドを実装するDiscord bot
-
-BOOTH : https://ariake12.booth.pm/items/4796978
 
 ### 鳥プランク
 
