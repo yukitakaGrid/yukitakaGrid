@@ -17,14 +17,14 @@
 
 
 # 目次
-1. [直近の制作物の紹介](#anchor1)
+1. [Works](#anchor1)
 2. [Profile](#anchor2)
 3. [Hisotory](#anchor3)
 4. [GitHub Status](#anchor4)
 
 ---
 <a id="anchor1"></a>
-# 直近の制作物
+# Works
 
 ### LightEffects by Unity
 <img src="./images/LEDCUBEAnimeGeneretor.png" width="600" height="300">
