@@ -63,13 +63,19 @@ BOOTH : https://ariake12.booth.pm/items/4796978
 
 PCD2023展示へ向けた制作物。Processingを使い、魂の軌跡と木の成長をプロシージャルに生成。
 
+https://github.com/yukitakaGrid/Tree_of_Souls
+
 ### わりかんじ
 
 ハッカソンで開発した飲み会の割り勘用のwebアプリケーション。フロントエンドを担当。
 
+https://github.com/geekcamp2023-vol5-team31/frontend
+
 ### KitAI
 
 ハッカソンで開発したGPTによりリアルタイムにコマンドを実装するDiscord bot
+
+https://github.com/yukitakaGrid/KitAI
 
 ### 鳥プランク
 
