@@ -50,6 +50,8 @@ Unity/C#、Shader/GPU、C++、Python、Processing、TypeScript、AfterEffects
 
 サークルで制作。作品「**LEDCUBE**」のアニメーションをアルゴリズムでリアルタイムに生成するシステム。
 
+https://github.com/yukitakaGrid/LightAnimationController
+
 ### LightEffects 
 <img src="./images/LEDCUBEAnimeGeneretor.png" width="600" height="300">
 
