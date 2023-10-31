@@ -79,7 +79,11 @@ PCD2023展示へ向けた制作物。Processingを使い、魂の軌跡と木の
 
 ### Nebula
 
+<img src="./images/Nebula image.jpg" width="600" height="300">
+
 オンラインデモパーティにて制作したデモシーン。雲と星のアニメーションをフラグメントシェーダー単体で表現。
+
+https://www.shadertoy.com/view/dsGBDh
 
 その他
 - 映像ディスプレイが踊るインタラクティブアート
