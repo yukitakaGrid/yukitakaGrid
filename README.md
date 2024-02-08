@@ -108,3 +108,13 @@ https://www.shadertoy.com/view/dsGBDh
 2023.8-9 ファンクリエイト第一期  
 2023.10 TDF 16ms#0 GLSL Graphics Compo  
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y7LEQ8J557"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y7LEQ8J557');
+</script>
+
