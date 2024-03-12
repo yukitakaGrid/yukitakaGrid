@@ -31,13 +31,13 @@
 
 
 ### SkillSet
-Unity/C#、Shader/GPU、C++、Python、Processing、TypeScript、AfterEffects
+Unity/C#、Shader/GPU、C++、Python、Processing、JavaScript
   
 ### Interested in
-- **コンピューターグラフィックス/GPU**
-- **物理シミュレーション**
-- **画像処理**
-- **最適化**
+- **WebGPU**
+- **ノーコードやDCCなどのクリエイター支援ツール**
+- **シミュレーション**
+- **数理最適化**
 - **インターフェース**
 
 ---
