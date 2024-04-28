@@ -27,18 +27,17 @@
 #### 志摩 幸隆 / Yukitaka Shima
 - *芝浦工業大学システム理工学部電子情報システム学科* (2020.4~現在)
 - デジタルアート制作サークル *ShibaLab* (2022.4~2023.5)
-- *チームラボ Interactive Team* サマーインターン (2023.9)
 
 
 ### SkillSet
 Unity/C#、Shader/GPU、C++、Python、Processing、JavaScript
   
 ### Interested in
-- **WebGPU**
+- **GPU**
+- **グラフィックス**
 - **ノーコードやDCCなどのクリエイター支援ツール**
 - **シミュレーション**
-- **数理最適化**
-- **インターフェース**
+- **HCI**
 
 ---
 <a id="anchor2"></a>
