@@ -6,7 +6,7 @@
 
 # yukitakaGrid
 
-作品とコードをまとめています。インタラクション、ジェネラティブアート、CG（シェーダー）を作っていて、本業は土木技術者です。文章は苦手なので、説明は短めにしています。  
+作品とコードをまとめています。インタラクション、ジェネラティブアート、CG（シェーダー）を作っていて、本業は土木技術者です。
 <sub>I build interactive and generative work and real-time graphics. Civil engineer by day.</sub>
 
 <p>
