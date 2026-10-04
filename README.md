@@ -6,7 +6,7 @@
 
 # yukitakaGrid
 
-インタラクション、ジェネラティブアート、CG（シェーダー）を作っています。本業は土木技術者です。  
+作品とコードをまとめています。インタラクション、ジェネラティブアート、CG（シェーダー）を作っていて、本業は土木技術者です。文章は苦手なので、説明は短めにしています。  
 <sub>I build interactive and generative work and real-time graphics. Civil engineer by day.</sub>
 
 <p>
@@ -36,16 +36,16 @@
 
 | 年 | 作品 | 内容 |
 |---|---|---|
-| 2026 | ツキノカメ（制作中） | Web インタラクション／VJ／映像。Boids による鳥の群れを、水・月・結晶などの場面で見せる。 |
-| 2026 | [tiny-hide-and-seek](https://github.com/yukitakaGrid/tiny-hide-and-seek) | 3D スキャンした空間で遊ぶ、小人サイズのオンラインかくれんぼ。依存なしの Node.js WebSocket サーバーと Three.js クライアント（BVH 物理、PWA プッシュ、Redis 永続化）。 |
-| 2025 | [MorphCubes](#morphcubes) | 遠隔地の人の身体性を表現する、複数の環境ロボット型テレプレゼンス。形状が変わる家具型ロボットを使う。 |
-| 2023 | [Tree of Souls](https://github.com/yukitakaGrid/TreeOfSouls) | Boids とフラクタルによるジェネラティブアート（JavaScript、p5.js）。Processing Community Day Tokyo 2023 で展示。 |
-| 2023 | [KitAI](https://github.com/yukitakaGrid/KitAI) | ハッカソンで制作した、ChatGPT がコマンドを実装する Discord bot（Python）。 |
+| 2026 | ツキノカメ（制作中） | Web インタラクション／VJ／映像として作っています。Boids で動かした鳥の群れを、水・月・結晶などの場面で見せています。 |
+| 2026 | [tiny-hide-and-seek](https://github.com/yukitakaGrid/tiny-hide-and-seek) | 3D スキャンした空間で遊ぶ、小人サイズのオンラインかくれんぼです。Node.js の WebSocket サーバー（依存なし）と Three.js のクライアントで、BVH 物理、PWA プッシュ、Redis 永続化を入れています。 |
+| 2025 | [MorphCubes](#morphcubes) | 遠隔地の人の身体性を表現する、複数の環境ロボット型テレプレゼンスです。形状が変わる家具型ロボットを使っています。 |
+| 2023 | [Tree of Souls](https://github.com/yukitakaGrid/TreeOfSouls) | Boids とフラクタルによるジェネラティブアートです（JavaScript、p5.js）。Processing Community Day Tokyo 2023 で展示しました。 |
+| 2023 | [KitAI](https://github.com/yukitakaGrid/KitAI) | ハッカソンで作った、ChatGPT がコマンドを実装する Discord bot です（Python）。 |
 
 ### MorphCubes
 
 > [!NOTE]
-> 論文 *MorphCubes: Adaptive Modular Robots for Dynamic Remote Human Embodiment*（Shima & Takashima）が **ACM CHI '25 Late-Breaking Work** に採択され、**INTERACTION 2025 インタラクティブ発表賞（PC 推薦）** を受賞しました。
+> 論文 *MorphCubes: Adaptive Modular Robots for Dynamic Remote Human Embodiment*（Shima & Takashima）が **ACM CHI '25 Late-Breaking Work** に採択され、**INTERACTION 2025** でインタラクティブ発表賞（PC 推薦）をいただきました。
 
 ```mermaid
 flowchart LR
@@ -57,21 +57,21 @@ flowchart LR
 <img alt="論文の図1。(a) 遠隔地のユーザー、(b) Furniture Mode、(c・d) 変形の途中、(e) Embody Mode" src="assets/morphcubes-fig1.jpg" width="100%">
 <sub>図1：Shima & Takashima, CHI EA '25, ACM</sub>
 
-普段は家具として置かれたモジュールが、通話時に人の背丈まで変形し、遠隔地のユーザーの姿と手を映します。
+普段は家具として置いてあるモジュールが、通話のときに人の背丈まで変形して、遠隔地のユーザーの姿と手を映します。
 
 ## Boids
 
-ツキノカメと Tree of Souls は、どちらも Boids（各個体が近傍の個体だけを参照して動くモデル）を使っています。Tree of Souls では、個体の軌跡からデジタル彫刻を生成しています。
+ツキノカメと Tree of Souls では Boids を使っています。各個体が近くの個体だけを見て動く、というモデルです。Tree of Souls では、個体の軌跡からデジタル彫刻を作りました。
 
 ```js
-// 近傍の個体だけを参照して、次の速度を決める
+// 近くの個体を見て、次の速度を決める
 for (const b of birds) {
   const near = birds.filter(o => o !== b && dist(o, b) < RADIUS);
   b.vel.add(separation(b, near).mult(0.05)); // 分離
   b.vel.add(alignment(b, near).mult(0.04));  // 整列
   b.vel.add(cohesion(b, near).mult(0.004));  // 結合
   b.pos.add(b.vel.limit(MAX_SPEED));
-  b.trail.push(b.pos.copy());                // 軌跡を保存
+  b.trail.push(b.pos.copy());                // 軌跡を残す
 }
 ```
 
