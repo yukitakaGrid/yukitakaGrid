@@ -4,7 +4,7 @@
   <img alt="Boids の軌跡を描いたバナー画像" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-# Yukitaka <sub>/ yukitakaGrid</sub>
+# yukitakaGrid
 
 インタラクション、ジェネラティブアート、CG（シェーダー）を作っています。本業は土木技術者です。  
 <sub>I build interactive and generative work and real-time graphics. Civil engineer by day.</sub>
@@ -37,8 +37,10 @@
 | 年 | 作品 | 内容 |
 |---|---|---|
 | 2026 | ツキノカメ（制作中） | Web インタラクション／VJ／映像。Boids による鳥の群れを、水・月・結晶などの場面で見せる。 |
+| 2026 | [tiny-hide-and-seek](https://github.com/yukitakaGrid/tiny-hide-and-seek) | 3D スキャンした空間で遊ぶ、小人サイズのオンラインかくれんぼ。依存なしの Node.js WebSocket サーバーと Three.js クライアント（BVH 物理、PWA プッシュ、Redis 永続化）。 |
 | 2025 | [MorphCubes](#morphcubes) | 遠隔地の人の身体性を表現する、複数の環境ロボット型テレプレゼンス。形状が変わる家具型ロボットを使う。 |
 | 2023 | [Tree of Souls](https://github.com/yukitakaGrid/TreeOfSouls) | Boids とフラクタルによるジェネラティブアート（JavaScript、p5.js）。Processing Community Day Tokyo 2023 で展示。 |
+| 2023 | [KitAI](https://github.com/yukitakaGrid/KitAI) | ハッカソンで制作した、ChatGPT がコマンドを実装する Discord bot（Python）。 |
 
 ### MorphCubes
 
@@ -73,27 +75,9 @@ for (const b of birds) {
 }
 ```
 
-## リポジトリ
+## そのほかのリポジトリ
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yukitakaGrid/tiny-hide-and-seek">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=tiny-hide-and-seek&theme=github_dark&hide_border=true">
-          <img alt="tiny-hide-and-seek — 3D スキャンした家の中で遊ぶ、小人サイズのオンラインかくれんぼ（Node WebSocket + Three.js）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=tiny-hide-and-seek&theme=default&hide_border=true">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yukitakaGrid/KitAI">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=KitAI&theme=github_dark&hide_border=true">
-          <img alt="KitAI — ハッカソンで作った、ChatGPT がコマンドを実装してくれる Discord bot（Python）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=KitAI&theme=default&hide_border=true">
-        </picture>
-      </a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/yukitakaGrid/pcx_test">
@@ -104,10 +88,28 @@ for (const b of birds) {
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/yukitakaGrid/TreeOfSouls">
+      <a href="https://github.com/yukitakaGrid/Nebula">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=TreeOfSouls&theme=github_dark&hide_border=true">
-          <img alt="TreeOfSouls — Boids とフラクタルによる、永遠を意識した創発のジェネラティブアート（JavaScript）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=TreeOfSouls&theme=default&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=Nebula&theme=github_dark&hide_border=true">
+          <img alt="Nebula — 16ms #0 GLSL Graphics Compo の提出作品（GLSL）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=Nebula&theme=default&hide_border=true">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/yukitakaGrid/LightEffects">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=LightEffects&theme=github_dark&hide_border=true">
+          <img alt="LightEffects — LED キューブのアニメーションを作る Unity 製 GUI ツール（C#）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=LightEffects&theme=default&hide_border=true">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/yukitakaGrid/LightAnimationController">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=LightAnimationController&theme=github_dark&hide_border=true">
+          <img alt="LightAnimationController — 物理演算やライフゲームなどで動かすアニメーション制御ソフト（Processing）" src="https://github-readme-stats.vercel.app/api/pin/?username=yukitakaGrid&repo=LightAnimationController&theme=default&hide_border=true">
         </picture>
       </a>
     </td>
@@ -120,7 +122,7 @@ for (const b of birds) {
 | 時期 | こと |
 |---|---|
 | 2025.11 | Generative VJ：BSP によるビル群のサイズ・高さの動的変容を用いた演出 |
-| 2025.4〜 | 土木技術者（施工管理・機械設備運用） |
+| 2025.4〜 | 土木技術者 |
 | 2025.3 | 芝浦工業大学 電子情報システム学科 卒業。卒業論文は MorphCubes |
 | 2025.3 | INTERACTION 2025 インタラクティブ発表賞（PC 推薦） |
 | 2025.2 | ACM CHI '25 Late-Breaking Work 採択 |
